@@ -1,7 +1,7 @@
-# Fun Reels
+# <div align="center"> Fun Reels
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dmipavrnm/image/upload/v1758037643/att.hLAiJsSr7G0nF6Y6yL08jl2PP71BQpauRFM4Bx7ZlNo_x2l2rm.jpg" alt="Fun Reels Logo" width="80">
+  <img src="https://res.cloudinary.com/dmipavrnm/image/upload/v1758037643/att.hLAiJsSr7G0nF6Y6yL08jl2PP71BQpauRFM4Bx7ZlNo_x2l2rm.jpg" alt="Fun Reels Logo" width="360">
   
   <br><br>
   
